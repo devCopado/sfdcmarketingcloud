@@ -1,3 +1,4 @@
+//prueba
 define([
     'postmonger'
 ], function (
